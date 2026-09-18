@@ -28,7 +28,7 @@ The dashboard includes:
 * **Payment Mode Distribution**
 * **Region-wise Sales Analysis**
 * **Interactive Region Slicer**
-* Interactive charts and KPI cards
+* **Interactive charts and KPI cards**
 
 The region slicer allows users to filter the dashboard and view the corresponding changes in the KPIs and charts.
 
