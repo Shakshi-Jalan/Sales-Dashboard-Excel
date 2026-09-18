@@ -41,12 +41,12 @@ The region slicer allows users to filter the dashboard and view the correspondin
 
 ## Dashboard Preview
 
-![Sales Dashboard](Dashboard_Screenshot.png)
+![Sales Dashboard](Dashboard_screenshot.png)
 
 ## Project Files
 
 * `Sales_Dashboard_Excel.xlsx` — Complete Excel workbook containing the dashboard, raw data, supporting PivotTables, and business insights.
-* `Dashboard_Screenshot.png` — Preview of the completed dashboard.
+* `Dashboard_screenshot.png` — Preview of the completed dashboard.
 
 ## Learning Outcome
 
